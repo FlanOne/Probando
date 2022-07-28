@@ -15,3 +15,7 @@ CHANCHITO FELIZ
 y asi termina el estudio hasta el momento.
 
 Ahora espero que alguien vea esto.
+
+
+
+String Nom = "Juanito"
